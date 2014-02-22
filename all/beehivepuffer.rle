@@ -1,0 +1,6 @@
+#N Beehive puffer
+#C A puffer that produces beehives.
+#C www.conwaylife.com/wiki/Beehive_Puffer
+x = 14, y = 13, rule = B3/S23
+bo2bo$o$o3bo$4o$6b3o$6b2ob2o$6b3o$4o$o3bo$o10b2o$bo2bo5b4o$9b2ob2o$10b
+2o!
